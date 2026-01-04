@@ -49,6 +49,4 @@ However, **winning is still random**, and no number guarantees a win.
    ```bash
    git clone https://github.com/your-username/lottery-game.git
 ## View Live Website
-url:
-```bash
-   (https://lottery-game-ewb8.onrender.com)
+url: https://lottery-game-ewb8.onrender.com
