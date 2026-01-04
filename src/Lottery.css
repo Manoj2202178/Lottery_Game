@@ -1,0 +1,47 @@
+.gameArea{
+    border: 2px solid grey;
+    padding: 70px;
+    border-radius: 10px;
+}
+.input{
+    margin: 1rem;
+    padding: 5px;
+    width: 50px;
+    height: 25px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+.rules{
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin: 0;
+}
+.rules h3{
+    background: #000;
+    margin-top: 0;
+    padding: 9px;
+    border-radius: 10px;
+}
+
+.rules p{
+  margin-bottom: 6px;
+}
+.rules {
+  padding: 12px;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.rules-title {
+  cursor: pointer;
+  user-select: none;
+}
+
+.rules-content p {
+  margin: 6px 0;
+  line-height: 1.4;
+  margin-bottom: 0;
+}
+
+

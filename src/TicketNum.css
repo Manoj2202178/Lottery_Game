@@ -1,0 +1,11 @@
+.TicketNum{
+    font-size: 30px;
+    border: 2px solid white;
+    margin: 2rem;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.TicketNum:hover{
+    background-color: #393a3b;
+}
