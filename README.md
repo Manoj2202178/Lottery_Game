@@ -39,7 +39,7 @@ However, **winning is still random**, and no number guarantees a win.
 - **React**
 - **JavaScript (ES6)**
 - **CSS**
-- React Hooks (`useState`, `useEffect`)
+- React Hooks (`useState`)
 
 ---
 
