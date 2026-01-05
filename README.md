@@ -43,10 +43,5 @@ However, **winning is still random**, and no number guarantees a win.
 
 ---
 
-## 📦 Installation & Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/lottery-game.git
 ## View Live Website
 url: https://lottery-game-ewb8.onrender.com
